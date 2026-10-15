@@ -1,4 +1,3 @@
-
 # 🛡️ DeepGuard AI - Deepfake Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -183,7 +182,7 @@ mongod --dbpath ./data
 python webapp/app.py
 ```
 
-Open: 👉 [http://localhost:5000](http://localhost:5000)
+
 
 ---
 
